@@ -1,0 +1,3 @@
+/Users/htoothetnaung/Desktop/Diploma/cmake-build-debug/CMakeFiles/Diploma.dir
+/Users/htoothetnaung/Desktop/Diploma/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/htoothetnaung/Desktop/Diploma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
